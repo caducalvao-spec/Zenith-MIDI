@@ -48,7 +48,7 @@ FFmpeg is required for video rendering, which you can get it [here](https://ffmp
 After downloading the app, extract the .zip archive and run the program. If FFmpeg is downloaded, put it next to the Zenith .exe.
 
 ## License
-Zenith is licensed under the terms of the [Don't Be a Dick Public License](https://github.com/arduano/Zenith-MIDI/blob/master/LICENSE).
+Zenith is licensed under the terms of the [Don't Be a Dick Public License](https://github.com/arduano/Zenith-MIDI/blobnj ZENITHPIANO/master/LICENSE).
 
 ## Screenshots
 | ![](https://arduano.github.io/Zenith-MIDI/dist/bmr/assets/plugins/classic.png) |   ![](https://arduano.github.io/Zenith-MIDI/dist/bmr/assets/plugins/flat.png)    |
